@@ -1,0 +1,7 @@
+---
+organization_name: EAF-new
+project_types:
+  opening-source-type:
+    data_sources:
+      repo_names:
+      - https://github.com/emacs-eaf/emacs-application-framework
