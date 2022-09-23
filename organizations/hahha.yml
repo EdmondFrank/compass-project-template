@@ -1,0 +1,11 @@
+---
+organization_name: hahha
+project_types:
+  software-artifact-projects:
+    data_sources:
+      repo_names:
+      - github.com/212/1233123
+      - github.com/212/
+  community-projects:
+    data_sources:
+      repo_names: []
