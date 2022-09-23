@@ -1,0 +1,11 @@
+---
+organization_name: 1232/2222
+project_types:
+  software-artifact-projects:
+    data_sources:
+      repo_names:
+      - https://github.com/1232/22
+  community-projects:
+    data_sources:
+      repo_names:
+      - https://github.com/1232/2222
