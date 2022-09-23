@@ -1,7 +1,0 @@
-organization_name: EAF
-project_types:
-  github-opening-projects:
-    data_sources:
-      repo_names: 
-        - https://github.com/emacs-eaf/eaf-git
-        - https://github.com/emacs-eaf/emacs-application-framework
