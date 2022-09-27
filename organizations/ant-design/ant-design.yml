@@ -1,0 +1,11 @@
+---
+organization_name: ant-design/ant-design
+project_types:
+  software-artifact-projects:
+    data_sources:
+      repo_names:
+      - https://gitee.com/ant-design/ant-design
+  community-projects:
+    data_sources:
+      repo_names:
+      - https://gitee.com/1232/2222
