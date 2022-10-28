@@ -1,0 +1,11 @@
+---
+organization_name: eaf-test
+project_types:
+  software-artifact-projects:
+    data_sources:
+      repo_names:
+      - https://github.com/emacs-eaf/emacs-application-framework
+      - https://github.com/emacs-eaf/eaf-git
+  community-projects:
+    data_sources:
+      repo_names: []
