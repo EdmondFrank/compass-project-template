@@ -1,0 +1,9 @@
+---
+community_name: tboox/xmake
+resource_types:
+  software-artifact-projects:
+    repo_urls:
+    - https://gitee.com/tboox/xmake
+  governance-projects:
+    repo_urls:
+    - https://gitee.com/tboox/xmake
