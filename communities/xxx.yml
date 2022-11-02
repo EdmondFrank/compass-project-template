@@ -1,0 +1,8 @@
+---
+community_name: xxx
+resource_types:
+  software-artifact-projects:
+    repo_urls:
+    - https://github.com/xxx/xxx
+  governance-projects:
+    repo_urls: []
