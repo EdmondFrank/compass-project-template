@@ -1,0 +1,9 @@
+---
+community_name: mirrors_list
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/gitee_mirrors_group/mirrors_list
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/gitee_mirrors_group/mirrors_list
