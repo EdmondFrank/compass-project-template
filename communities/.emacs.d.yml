@@ -1,0 +1,10 @@
+---
+community_name: ".emacs.d"
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/EdmondFrank/blink-search
+    - https://github.com/EdmondFrank/gitgud
+  governance-repositories:
+    repo_urls:
+    - https://github.com/EdmondFrank/.emacs.d
