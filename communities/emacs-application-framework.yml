@@ -1,0 +1,12 @@
+---
+community_name: emacs-application-framework
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/emacs-eaf/emacs-application-framework
+    - https://gitee.com/emacs-eaf/eaf-browser
+    - https://gitee.com/emacs-eaf/eaf-file-manager
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/emacs-eaf/eaf-demo
+    - https://gitee.com/emacs-eaf/eaf-pdf-viewer
