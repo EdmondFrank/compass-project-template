@@ -1,0 +1,11 @@
+---
+community_name: ChineseChessOnline
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/stringify/ChineseChessOnline
+    - https://gitee.com/li_qin_power/ni-hg
+    - ''
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/wwtbnbw6688/tdengine-gui3
