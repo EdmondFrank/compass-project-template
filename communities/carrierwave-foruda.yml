@@ -1,0 +1,9 @@
+---
+community_name: carrierwave-foruda
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/ld/J2Cache
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/oscstudio/carrierwave-foruda
