@@ -1,0 +1,9 @@
+---
+community_name: rocksdb
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/mirrors/rocksdb
+  governance-repositories:
+    repo_urls:
+    - https://gitee.com/mirrors/vim
