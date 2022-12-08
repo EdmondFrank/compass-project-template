@@ -1,0 +1,10 @@
+---
+community_name: docs
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/nanzm/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    - https://github.com/nanzm/docs
+  governance-repositories:
+    repo_urls:
+    - https://github.com/nanzm/docs
