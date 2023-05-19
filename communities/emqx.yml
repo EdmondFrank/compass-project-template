@@ -1,0 +1,9 @@
+---
+community_name: emqx
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/emqx/emqx
+  governance-repositories:
+    repo_urls:
+    - https://github.com/emqx/blog
