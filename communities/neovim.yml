@@ -1,0 +1,9 @@
+---
+community_name: neovim
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/neovim/neovim
+  governance-repositories:
+    repo_urls:
+    - https://github.com/neovim/doc
