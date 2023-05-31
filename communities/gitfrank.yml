@@ -1,0 +1,8 @@
+---
+community_name: gitfrank
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/edmondfrank/gitfrank
+  governance-repositories:
+    repo_urls: []
