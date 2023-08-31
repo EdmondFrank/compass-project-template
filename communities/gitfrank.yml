@@ -1,6 +1,7 @@
 ---
 community_name: gitfrank
 community_url: https://gitee.com/edmondfrank
+community_namespace: edmondfrank
 resource_types:
   software-artifact-repositories:
     repo_urls:
