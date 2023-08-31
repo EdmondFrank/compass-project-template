@@ -1,0 +1,6 @@
+---
+community_name: FFReader
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/cnldw/FinanceFileReader
