@@ -1,0 +1,12 @@
+---
+community_name: nanzm
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/nanzm/autotrain-advanced
+    - https://github.com/nanzm/rustdesk
+    - https://github.com/nanzm/compass-projects-information
+  governance-repositories:
+    repo_urls:
+    - https://github.com/nanzm/autotrain-advanced
+    - https://github.com/nanzm/compass-projects-information
