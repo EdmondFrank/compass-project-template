@@ -1,7 +1,7 @@
 ---
 community_name: FFReader
-community_url: https://gitee.com/cnldw
-community_namespace: cnldw
+community_org_url: https://gitee.com/cnldw
+community_logo_url: https://gitee.com/cnldw.png
 resource_types:
   software-artifact-repositories:
     repo_urls:
