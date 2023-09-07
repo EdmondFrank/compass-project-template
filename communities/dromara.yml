@@ -1,0 +1,15 @@
+---
+community_name: dromara
+community_org_url: https://gitee.com/dromara
+community_logo_url: https://gitee.com/dromara.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/dromara/hutool
+    - https://gitee.com/dromara/sa-token
+    - https://gitee.com/dromara/go-view
+    - https://gitee.com/dromara/open-capacity-platform
+    - https://gitee.com/dromara/RuoYi-Vue-Plus
+    - https://gitee.com/dromara/liteFlow
+  governance-repositories:
+    repo_urls: []
