@@ -1,0 +1,32 @@
+---
+community_name: flomesh-io
+community_org_url: https://flomesh.io/
+community_logo_url: https://github.com/flomesh-io.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/flomesh-io/pipy
+    - https://github.com/flomesh-io/fgw
+    - https://github.com/flomesh-io/flb
+    - https://github.com/flomesh-io/fsm
+    - https://github.com/flomesh-io/osm-edge
+    - https://github.com/flomesh-io/ErieCanal
+    - https://github.com/flomesh-io/fsm-classic
+    - https://github.com/flomesh-io/fnlb
+    - https://github.com/flomesh-io/traffic-guru
+    - https://github.com/flomesh-io/helm-charts
+    - https://github.com/flomesh-io/ModSecurity-Pipy
+    - https://github.com/flomesh-io/homebrew-pipy
+    - https://github.com/flomesh-io/osm
+    - https://github.com/flomesh-io/flomesh
+    - https://github.com/flomesh-io/apis
+  governance-repositories:
+    repo_urls:
+    - https://github.com/flomesh-io/fsm-docs
+    - https://github.com/flomesh-io/fgw-docs
+    - https://github.com/flomesh-io/pipy-demos
+    - https://github.com/flomesh-io/flomesh-workshop
+    - https://github.com/flomesh-io/osm-edge-docs
+    - https://github.com/flomesh-io/flomesh-bookinfo-demo
+    - https://github.com/flomesh-io/service-mesh-dubbo-demo
+    - https://github.com/flomesh-io/ErieCanal-docs
