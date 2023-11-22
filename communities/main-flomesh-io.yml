@@ -1,0 +1,11 @@
+---
+community_name: main-flomesh-io
+community_org_url: https://flomesh.io/
+community_logo_url: https://github.com/flomesh-io.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://github.com/flomesh-io/pipy
+    - https://github.com/flomesh-io/fgw
+  governance-repositories:
+    repo_urls: []
