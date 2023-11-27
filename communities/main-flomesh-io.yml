@@ -11,4 +11,4 @@ resource_types:
     - https://github.com/flomesh-io/traffic-guru
   governance-repositories:
     repo_urls:
-    - https://github.com/flomesh-io/fsm-docs
+    - https://github.com/flomesh-io/fgw-docs
