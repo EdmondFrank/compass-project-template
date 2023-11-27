@@ -7,5 +7,9 @@ resource_types:
     repo_urls:
     - https://github.com/flomesh-io/pipy
     - https://github.com/flomesh-io/fgw
+    - https://github.com/flomesh-io/fsm
+    - https://github.com/flomesh-io/traffic-guru
+    - https://github.com/flomesh-io/flb
   governance-repositories:
-    repo_urls: []
+    repo_urls:
+    - https://github.com/flomesh-io/fsm-docs
