@@ -9,7 +9,6 @@ resource_types:
     - https://github.com/flomesh-io/fgw
     - https://github.com/flomesh-io/fsm
     - https://github.com/flomesh-io/traffic-guru
-    - https://github.com/flomesh-io/flb
   governance-repositories:
     repo_urls:
     - https://github.com/flomesh-io/fsm-docs
