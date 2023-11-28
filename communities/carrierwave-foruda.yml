@@ -6,6 +6,7 @@ resource_types:
   software-artifact-repositories:
     repo_urls:
     - https://gitee.com/ld/J2Cache
+    - https://gitee.com/erzhongxmu/JEEWMS
   governance-repositories:
     repo_urls:
     - https://gitee.com/oscstudio/carrierwave-foruda
