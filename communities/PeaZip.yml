@@ -1,0 +1,11 @@
+---
+community_name: PeaZip
+community_org_url: ''
+community_logo_url: https://gitee.com/mirrors.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/mirrors/PeaZip
+    - https://gitee.com/ld/J2Cache
+  governance-repositories:
+    repo_urls: []
