@@ -1,0 +1,12 @@
+---
+community_name: JEEWMSaaa
+community_org_url: ''
+community_logo_url: https://gitee.com/LinkWeChat.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/LinkWeChat/link-wechat
+    - https://gitee.com/erzhongxmu/JEEWMS
+    - https://gitee.com/aaluoxiang/oa_system
+  governance-repositories:
+    repo_urls: []
