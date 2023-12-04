@@ -1,0 +1,11 @@
+---
+community_name: MicroCommunityaa
+community_org_url: ''
+community_logo_url: https://gitee.com/wuxw7.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/wuxw7/MicroCommunity
+    - https://gitee.com/erzhongxmu/JEEWMS
+  governance-repositories:
+    repo_urls: []
