@@ -1,0 +1,11 @@
+---
+community_name: jishenghua
+community_org_url: ''
+community_logo_url: https://gitee.com/jishenghua.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/jishenghua/JSH_ERP
+    - https://gitee.com/johng/gf
+  governance-repositories:
+    repo_urls: []
