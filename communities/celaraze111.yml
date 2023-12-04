@@ -1,0 +1,12 @@
+---
+community_name: celaraze111
+community_org_url: ''
+community_logo_url: https://gitee.com/chowa.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/chowa/ejyy
+    - https://gitee.com/celaraze/chemex
+    - https://gitee.com/aipaw/wookteam
+  governance-repositories:
+    repo_urls: []
