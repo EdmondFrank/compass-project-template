@@ -1,0 +1,10 @@
+---
+community_name: aaluoxiang
+community_org_url: ''
+community_logo_url: https://gitee.com/aaluoxiang.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/aaluoxiang/oa_system
+  governance-repositories:
+    repo_urls: []
