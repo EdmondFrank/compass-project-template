@@ -1,0 +1,11 @@
+---
+community_name: ejyy444444
+community_org_url: ''
+community_logo_url: https://gitee.com/chowa.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/chowa/ejyy
+    - https://gitee.com/wukongcrm/72crm-java
+  governance-repositories:
+    repo_urls: []
