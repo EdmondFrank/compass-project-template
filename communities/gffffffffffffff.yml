@@ -1,0 +1,11 @@
+---
+community_name: gffffffffffffff
+community_org_url: ''
+community_logo_url: https://gitee.com/johng.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/johng/gf
+    - https://gitee.com/kerwincui/wumei-smart
+  governance-repositories:
+    repo_urls: []
