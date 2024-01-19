@@ -1,0 +1,6 @@
+---
+resource_types:
+  repo_urls: https://github.com/oss-compass/compass-metrics-model
+developers:
+  Edmondfrank:
+  - emacs-eaf from 2021-01-02 until 2024-01-01
