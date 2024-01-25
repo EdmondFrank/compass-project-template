@@ -1,0 +1,6 @@
+---
+resource_types:
+  repo_urls: https://github.com/oss-compass/community
+developers:
+  eyehwan:
+  - amdd from 2024-01-03 until 2024-01-04
