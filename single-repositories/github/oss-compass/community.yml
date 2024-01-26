@@ -1,0 +1,6 @@
+---
+resource_types:
+  repo_urls: https://github.com/oss-compass/community
+developers:
+  JuliaZhou2022:
+  - AMD from 2024-01-04 until 2024-01-19
