@@ -1,3 +1,6 @@
 ---
 resource_types:
   repo_urls: https://github.com/oss-compass/compass-web
+developers:
+  coder-sett:
+  - Huawei from 2024-01-03 until 2099-01-01
