@@ -1,0 +1,15 @@
+---
+community_name: openharmony-tpc
+community_org_url: https://gitee.com/openharmony-tpc
+community_logo_url: https://gitee.com/openharmony-tpc.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openharmony-tpc/ImageKnife
+    - https://gitee.com/openharmony-tpc/httpclient
+    - https://gitee.com/openharmony-tpc/openharmony_tpc_samples
+    - https://gitee.com/openharmony-tpc/MMKV
+    - https://gitee.com/openharmony-tpc/chromium_third_party
+    - https://gitee.com/openharmony-tpc/chromium_v8
+  governance-repositories:
+    repo_urls: []
