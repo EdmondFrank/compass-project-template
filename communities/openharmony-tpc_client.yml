@@ -1,0 +1,11 @@
+---
+community_name: openharmony-tpc_client
+community_org_url: https://gitee.com/openharmony-tpc
+community_logo_url: https://gitee.com/openharmony-tpc.png
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/openharmony-tpc/httpclient
+    - https://gitee.com/openharmony-tpc/ImageKnife
+  governance-repositories:
+    repo_urls: []
